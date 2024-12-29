@@ -1,0 +1,6 @@
+numpy
+pandas
+tensorflow
+solana
+requests
+python-dotenv
